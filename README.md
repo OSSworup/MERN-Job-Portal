@@ -70,8 +70,8 @@ Edit
 ## 🛠 How to Run Locally
 
 # Clone the repo
-git clone https://github.com/yourusername/job-portal.git
-cd job-portal
+git clone https://github.com/OSSworup/HireWave-Job-portal
+cd HireWave-Job-portal
 
 # Backend setup
 cd backend
@@ -118,6 +118,14 @@ No admin panel or analytics
 Not responsive for mobile screens yet
 
 No test data seeding scripts
+
+### 👤 Author
+Omm Subham Sworup Ojha  
+
+BSc Computer Science Graduate  
+Aspiring Full-Stack Web Developer  
+Contact: connect via GitHub, or [LinkedIn](http://linkedin.com/in/omm-subham-sworup-ojha-b80144338)
+
 
 
 
